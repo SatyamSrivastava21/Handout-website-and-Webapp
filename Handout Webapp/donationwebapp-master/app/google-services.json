@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87058776994",
+    "project_id": "handout-1donate",
+    "storage_bucket": "handout-1donate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87058776994:android:790e59ff218e947ea0e8fb",
+        "android_client_info": {
+          "package_name": "com.example.handout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87058776994-qvtq5l1g8n2p11rgkgt0jjvouh59ng3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxm6sTYUo9jldOkL6i4KjPvloKPLfUlqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87058776994-qvtq5l1g8n2p11rgkgt0jjvouh59ng3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
